@@ -43,6 +43,25 @@ Una vez tengas creado tu archivo, sea manualmente o utilizando atajos, escribe l
       <title>Mi Primer Sitio Web</title>
    </head>
    <body>
+      <header>
+         <h1>DESARROLLO WEB FULLSTACK</h1>
+         <span>INICIO</span>
+         <span>COMPRAS</span>
+         <span>VNETAS</span>
+      </header>
+      <hr>
+      <main>
+         <section> 
+            <h2>Titulo 1 secundario h2 </h2>
+            <article>
+               <h3>Titulo con h3 </h3>
+               <div>
+                  <p>Explorando las etiqueta p, main ,section , article y div  </p>
+               </div>
+            </article>
+            <hr>
+         </section>
+      </main>
       <!-- Contenido de la página va aquí-->
    </body>
 </html>
